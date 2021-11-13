@@ -1,5 +1,5 @@
-// import { initSubAppVue2 } from '@belloai/bello-mfe'
-import { initSubAppVue2 } from '@/utils/mfe'
+import './public-path'
+import { initSubAppVue2 } from '@belloai/bello-mfe'
 
 import Vue from 'vue'
 import VueRouter from 'vue-router'
